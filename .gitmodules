@@ -1,0 +1,12 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/AnxietyAlly/frontend.git
+[submodule "backend/apigateway"]
+	path = backend/apigateway
+	url = https://github.com/AnxietyAlly/apigateway.git
+[submodule "backend/accounts"]
+	path = backend/accounts
+	url = https://github.com/AnxietyAlly/accounts.git
+[submodule "backend/questionnaire"]
+	path = backend/questionnaire
+	url = https://github.com/AnxietyAlly/questionnaire.git
