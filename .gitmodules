@@ -10,3 +10,6 @@
 [submodule "backend/questionnaire"]
 	path = backend/questionnaire
 	url = https://github.com/AnxietyAlly/questionnaire.git
+[submodule "backend/progress"]
+	path = backend/progress
+	url = https://github.com/AnxietyAlly/progress.git
